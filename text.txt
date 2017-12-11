@@ -1,4 +1,9 @@
 helloo people
 
+<<<<<<< HEAD
 akshay
 monica
+=======
+
+edited in bash
+>>>>>>> commit3
